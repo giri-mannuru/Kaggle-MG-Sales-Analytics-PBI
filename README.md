@@ -5,7 +5,7 @@ The MG Sales Analytics Dashboard, A Power BI project which is a comprehensive, m
 
 ## OVERVIEW
 
-### Page 1 – Monthly Performance & Profitability
+### Page 1 – Monthly Performance & Profitability (https://github.com/giri-mannuru/Kaggle-MG-Sales-Analytics-PBI/blob/main/page_1.pdf)
 - **Metrics Tracked:** Total Amount, Total Profit, Total Orders
 - **Payment Mode Analysis:** COD, UPI, Debit/Credit Card, EMI
 - **Profitability Highlights:**
@@ -14,19 +14,19 @@ The MG Sales Analytics Dashboard, A Power BI project which is a comprehensive, m
   - Monthly Profit % Trends
 - **Visuals Used:** Bar charts, pie charts, dynamic filters
 
-### Page 2 – Geographic Distribution
+### Page 2 – Geographic Distribution (https://github.com/giri-mannuru/Kaggle-MG-Sales-Analytics-PBI/blob/main/page_2.pdf)
 - **Order Distribution:** By State and City across South Asia & Middle East
 - **Monthly Trends:** Total Orders and Quantity
 - **Map Visuals:** Country and city-level density
 - **Segmentation:** Regional performance breakdown
 
-### Page 3 – Customer-Level Profitability by Category
+### Page 3 – Customer-Level Profitability by Category (https://github.com/giri-mannuru/Kaggle-MG-Sales-Analytics-PBI/blob/main/page_3.pdf)
 - **Categories:** Clothing, Electronics, Furniture
 - **Customer Metrics:** Total Amount vs Total Profit
 - **Filters:** State-level and customer-level drilldowns
 - **Order Count:** 182 orders analyzed
 
-### Page 4 – Customer & City Performance Summary
+### Page 4 – Customer & City Performance Summary (https://github.com/giri-mannuru/Kaggle-MG-Sales-Analytics-PBI/blob/main/page_4.pdf)
 - **Customer Profitability:** Profit/Loss classification, order-level breakdown
 - **City Comparison:** Mumbai vs Pune (Total Amount & Profit)
 - **Summary Stats:** ₹29,793 Total Amount, ₹3,379 Total Profit
